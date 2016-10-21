@@ -5,6 +5,8 @@
 
 	June 21, 2016 - Brazil
 
+	Copyright © 2016 Eduardo Pacheco. All rights reserved.
+
 	------------------------------------------
 
 	main.c

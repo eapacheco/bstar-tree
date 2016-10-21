@@ -5,10 +5,11 @@
 
 	21 de junho de 2016, Brasil
 
+	Copyright © 2016 Eduardo Pacheco. All rights reserved.
+
 	------------------------------------------
 
 	bs-tree.c
-	English documentation will be provided, request it, for speeding up
 */
 
 #include <stdlib.h>
